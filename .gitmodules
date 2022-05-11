@@ -1,0 +1,3 @@
+[submodule "huggingface/test_model"]
+	path = huggingface/test_model
+	url = https://huggingface.co/gtsherman/test_model
